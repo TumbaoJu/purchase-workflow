@@ -6,3 +6,4 @@ Lines.
 
 It is possible to filter requests by its approval status.
 ![email](https://github.com/TumbaoJu/purchase-workflow/assets/38360781/1a04d8a5-c120-4777-88c3-8d033124f7ed)
+![Profil](https://github.com/TumbaoJu/purchase-workflow/assets/38360781/a252b310-f81d-428f-8f44-12f520992341)
